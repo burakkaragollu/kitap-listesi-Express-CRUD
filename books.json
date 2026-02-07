@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Suç ve Ceza",
+    "author": "Dostoyevski",
+    "year": 1866,
+    "read": false
+  },
+  {
+    "id": 2,
+    "title": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "year": 1943,
+    "read": false
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "read": true
+  }
+]
